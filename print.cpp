@@ -7,5 +7,7 @@ int main()
   cin>> n;
 
   cout<< n;
-    
+
+  int m = 1;
+
 } 
